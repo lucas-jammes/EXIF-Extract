@@ -1,4 +1,4 @@
-# EXIF_Extract
+# EXIF-Extract
 
 ## Description
 This Python script allows extracting and displaying EXIF data from an image. It is designed to process images from URLs and display information such as camera settings, GPS information, and other important metadata.
@@ -15,7 +15,7 @@ Click [here](https://replit.com/@jammeslucas/EXIF-Extract#main.py) to access the
 To run this script locally, follow these steps:
 1. Clone the repository:
   ```bash
-  git clone https://github.com/your_username/EXIF-Data-Extractor.git
+  git clone https://github.com/lucas-jammes/EXIF-Extract.git
   ```
 2. Install dependencies:
   ```bash
