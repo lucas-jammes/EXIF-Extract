@@ -23,7 +23,7 @@ To run this script locally, follow these steps:
   ```
 3. Run the script:
   ```bash
-  python3 exif_extractor.py
+  python3 src/main.py
   ```
 
 ## Contributions
