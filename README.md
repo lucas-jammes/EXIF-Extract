@@ -6,7 +6,6 @@ This Python script allows extracting and displaying EXIF data from an image. It 
 ## Features
 - Extract EXIF data from an image URL.
 - Formatted display of EXIF data.
-- Generate clickable Google Maps links for GPS coordinates (if available).
 
 ## Online Usage
 You can run this script online on Replit. Click [here](https://replit.com/@jammeslucas/EXIF-Extract#main.py) to access the application on Replit.
