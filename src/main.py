@@ -18,12 +18,10 @@ def extract_and_print_data(image, exif_tags):
     exif_data = image._getexif()
 
     if not exif_data:
-        print("""
-              No EXIF data found in the image.
-              Note that if the photo is from social media platforms,
-              they often remove EXIF data during the upload process
-              for privacy and data compression reasons.
-              """)
+        print("""\nNo EXIF data found in the image.
+Note that if the photo is from social media platforms,
+they often remove EXIF data during the upload process
+for privacy and data compression reasons.""")
         return
 
     def print_decoded_exif(name, value):
